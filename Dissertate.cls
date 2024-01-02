@@ -254,12 +254,12 @@
 \titlespacing{\subsubsection}{0pt}{0em}{0em}
 
 \titleformat{\paragraph}[runin]
-{\normalfont\normalsize\scshape}{\theparagraph}{1em}{}[]
+{\normalfont\normalsize\scshape\bfseries}{\theparagraph}{4em}{}[]
 
-\titlespacing{\paragraph}{0pt}{0em}{0em}
+\titlespacing{\paragraph}{0pt}{0em}{1em}
 
 \titleformat{\subparagraph}[runin]
-{\normalfont\normalsize\scshape}{\theparagraph}{1em}{}[]
+{\normalfont\normalsize\scshape}{\theparagraph}{1em}{0em}[]
 
 \titlespacing{\subparagraph}{0pt}{0em}{0em}
 
